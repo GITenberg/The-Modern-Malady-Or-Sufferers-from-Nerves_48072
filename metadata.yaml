@@ -1,10 +1,16 @@
 _repo: The-Modern-Malady-Or-Sufferers-from-Nerves_48072
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48072-h/images/cover.jpg
 creator:
   author:
     agent_name: Bennett, Cyril
     gutenberg_agent_id: '44605'
     url: http://www.gutenberg.org/2009/agents/44605
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48072#The-Modern-Malady-Or-Sufferers-from-Nerves
 gutenberg_issued: '2015-01-25'
 gutenberg_type: Text
 identifiers:
